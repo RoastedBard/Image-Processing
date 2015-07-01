@@ -1,0 +1,18 @@
+D:\Work\Programming\!Projects\Image Processing\bin\Debug\Image Processing.exe.config
+D:\Work\Programming\!Projects\Image Processing\bin\Debug\Image Processing.exe
+D:\Work\Programming\!Projects\Image Processing\bin\Debug\Image Processing.pdb
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image Processing.exe
+D:\Work\Programming\!Projects\Image Processing\obj\Debug\Image Processing.pdb
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image Processing.exe
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image Processing.pdb
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\bin\Debug\Image Processing.exe
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\bin\Debug\Image Processing.pdb
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\Work\Programming\!Projects\ImageProcessing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
